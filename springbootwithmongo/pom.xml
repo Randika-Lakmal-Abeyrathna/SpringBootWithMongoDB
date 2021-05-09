@@ -12,7 +12,7 @@
 	<artifactId>springbootwithmongo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springbootwithmongo</name>
-	<description>Demo project for Spring Boot and Monogo DB</description>
+	<description>Demo project for Spring Boot and Mongo DB</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
